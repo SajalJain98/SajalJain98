@@ -8,28 +8,24 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sajal-jain-9b24b6278/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white">
   </a>
   <a href="mailto:s4sajaljain@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
   </a>
 </p>
 
-<!-- Typing Animation -->
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=1800&pause=800&color=F75C7E&center=true&vCenter=true&width=900&lines=Data+Analyst+%7C+Business+Analyst;Machine+Learning+Enthusiast;Turning+Data+into+Insights;Always+Learning+New+Things+%F0%9F%9A%80"
-    alt="Typing Animation"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=1800&pause=800&color=F75C7E&center=true&vCenter=true&width=900&lines=Data+Analyst+%7C+Business+Analyst;Machine+Learning+Enthusiast;Turning+Data+into+Insights;Always+Learning+New+Things+%F0%9F%9A%80">
 </p>
 
 <h3>🧠 About Me</h3>
 
-I am a **Business and Data Analytics professional** passionate about transforming complex data into meaningful insights that drive decision-making and business growth. My expertise lies in **Python, SQL, Power BI, and Machine Learning**, which I use to develop data-driven strategies, automate workflows, and create KPI dashboards that provide clear visibility into business performance. I thrive at the intersection of business and technology, where I can apply analytical thinking and technical proficiency to solve real-world problems. With a deep curiosity for uncovering trends and optimizing processes, I see data not just as numbers but as a powerful tool for understanding people, predicting outcomes, and creating value.  
+I am a **Business and Data Analytics professional** passionate about transforming complex data into meaningful insights that drive decision-making and business growth. My expertise lies in **Python, SQL, Power BI, and Machine Learning**, which I use to develop data-driven strategies, automate workflows, and create KPI dashboards that provide clear visibility into business performance. I thrive at the intersection of business and technology, applying analytical thinking and technical proficiency to solve real-world problems. With a deep curiosity for uncovering trends and optimizing processes, I see data not just as numbers but as a powerful tool for understanding people, predicting outcomes, and creating value.  
 
-I hold a **Master’s degree in Business Analytics from Arizona State University’s W. P. Carey School of Business**, where I specialized in **predictive analytics, data visualization, and business process optimization**. My academic and professional experience spans across **retail analytics, supply chain optimization, and healthcare operations**, where I’ve built data models, designed interactive dashboards, and implemented forecasting tools to streamline operations and enhance decision-making. I am highly proficient in **Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)** for statistical analysis and modeling, **SQL** for efficient data management, and **Power BI** for delivering dynamic, business-ready visualizations. I also have practical experience working with **AWS** for cloud-based data analytics, allowing me to build scalable and efficient reporting pipelines.  
+I hold a **Master’s degree in Business Analytics from Arizona State University’s W. P. Carey School of Business**, where I specialized in **predictive analytics, data visualization, and business process optimization**. My academic and professional experience spans across **retail analytics, supply chain optimization, and healthcare operations**, where I’ve built data models, designed interactive dashboards, and implemented forecasting tools to streamline operations and enhance decision-making. I’m highly proficient in **Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)** for statistical analysis, **SQL** for data management, and **Power BI** for dynamic business-ready dashboards.  
 
-Beyond my professional expertise, I am deeply motivated by continuous learning and innovation. I’m currently expanding my skill set in **AI-powered analytics, Natural Language Processing (NLP), and cloud data engineering** to stay ahead of the evolving data landscape. Outside of work, I’m a travel enthusiast ✈️ who loves exploring new cultures, experimenting with emerging technologies 💡, and staying active through fitness 🏋️‍♂️. My goal is simple — to leverage data and analytics to make smarter decisions, build better systems, and drive meaningful business outcomes.  
+Beyond my professional expertise, I’m continuously exploring **AI-powered analytics, NLP, and cloud data engineering** to stay ahead of the evolving data landscape. Outside of work, I love **traveling ✈️**, exploring **emerging technologies 💡**, and staying **active 🏋️‍♂️**. My goal is to turn data into actionable strategies that drive meaningful outcomes.
 
 <h3>🔍 What I Do</h3>
 
@@ -42,9 +38,9 @@ Beyond my professional expertise, I am deeply motivated by continuous learning a
 <h3>🌱 Currently Exploring</h3>
 
 - Advanced Analytics & BI • Data storytelling & UX for dashboards  
-- Cloud Data Engineering (AWS) • Orchestration & automation patterns  
-- ML for Business Optimization • Practical NLP & feature engineering  
-- AI-assisted analysis • Guardrails & evaluation for analytics apps  
+- Cloud Data Engineering (AWS) • Automation & orchestration patterns  
+- Machine Learning for Business Optimization • Practical NLP  
+- AI-assisted analytics • Model explainability & evaluation  
 
 <h3>💼 Check Out!</h3>
 
@@ -55,15 +51,14 @@ Beyond my professional expertise, I am deeply motivated by continuous learning a
 <h3>🛠️ Languages and Tools</h3>
 
 <p align="center">
-  <!-- Programming & Core Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" alt="MySQL"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" height="60" alt="AWS"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" width="50" height="50" alt="Power BI"/>&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="46" height="46" alt="Excel"/>
+  <img src="./assets/icons/python.png" width="48" height="48" alt="Python"/>&nbsp;
+  <img src="./assets/icons/mysql.png" width="55" height="55" alt="MySQL"/>&nbsp;
+  <img src="./assets/icons/html5.png" width="48" height="48" alt="HTML5"/>&nbsp;
+  <img src="./assets/icons/tensorflow.png" width="48" height="48" alt="TensorFlow"/>&nbsp;
+  <img src="./assets/icons/git.png" width="48" height="48" alt="Git"/>&nbsp;
+  <img src="./assets/icons/aws.png" width="55" height="55" alt="AWS"/>&nbsp;
+  <img src="./assets/icons/powerbi.png" width="50" height="50" alt="Power BI"/>&nbsp;
+  <img src="./assets/icons/excel.png" width="48" height="48" alt="Excel"/>
 </p>
 
 <p align="center">
