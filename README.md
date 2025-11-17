@@ -47,11 +47,11 @@ Beyond my professional expertise, I am deeply motivated by continuous learning a
 <h3>🛠️ Tools I Use</h3>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="70" height="70" alt="Python"/>&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Power_BI_Logo.svg" width="70" height="70" alt="Power BI"/>&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" width="70" height="70" alt="SQL"/>&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Microsoft_Office_Excel_%282019–present%29.svg" width="70" height="70" alt="Excel"/>&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="90" height="70" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65" height="65" alt="Python"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="80" height="80" alt="SQL"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="80" height="80" alt="AWS"/>&nbsp;&nbsp;
+  <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/powerbi.svg?raw=true" width="65" height="65" alt="Power BI"/>&nbsp;&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="65" height="65" alt="Excel"/>
 </p>
 
 <p align="center">
