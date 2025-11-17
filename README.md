@@ -27,7 +27,7 @@
 
 I am a **Business and Data Analytics professional** passionate about transforming complex data into meaningful insights that drive decision-making and business growth. My expertise lies in **Python, SQL, Power BI, and Machine Learning**, which I use to develop data-driven strategies, automate workflows, and create KPI dashboards that provide clear visibility into business performance. I thrive at the intersection of business and technology, where I can apply analytical thinking and technical proficiency to solve real-world problems. With a deep curiosity for uncovering trends and optimizing processes, I see data not just as numbers but as a powerful tool for understanding people, predicting outcomes, and creating value.  
 
-I hold a **Master’s degree in Business Analytics from Arizona State University’s W. P. Carey School of Business**, where I specialized in **predictive analytics, data visualization, and business process optimization**. My academic and professional experience spans across **retail analytics, supply-chain optimization, and healthcare operations**, where I’ve built data models, designed interactive dashboards, and implemented forecasting tools to streamline operations and enhance decision-making. I am highly proficient in **Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)** for statistical analysis and modeling, **SQL** for efficient data management, and **Power BI** for delivering dynamic, business-ready visualizations. I also have practical experience working with **AWS** for cloud-based data analytics, enabling scalable and efficient reporting pipelines.  
+I hold a **Master’s degree in Business Analytics from Arizona State University’s W. P. Carey School of Business**, where I specialized in **predictive analytics, data visualization, and business process optimization**. My academic and professional experience spans across **retail analytics, supply-chain optimization, and healthcare operations**, where I’ve built data models, designed interactive dashboards, and implemented forecasting tools to streamline operations and enhance decision-making.  
 
 Beyond my professional expertise, I am deeply motivated by continuous learning and innovation. I’m currently expanding my skill set in **AI-powered analytics, Natural Language Processing (NLP), and cloud data engineering** to stay ahead of the evolving data landscape. Outside of work, I’m a travel enthusiast ✈️ who loves exploring new cultures, experimenting with emerging technologies 💡, and staying active through fitness 🏋️‍♂️. My goal is simple — to leverage data and analytics to make smarter decisions, build better systems, and drive meaningful business outcomes.  
 
@@ -41,10 +41,9 @@ Beyond my professional expertise, I am deeply motivated by continuous learning a
 
 <h3>🌱 Currently Exploring</h3>
 
-- Advanced Analytics & BI  •  Data storytelling & dashboard UX  
-- Cloud Data Engineering (AWS)  •  Automation & orchestration patterns  
-- ML for Business Optimization  •  Practical NLP & feature engineering  
-- AI-assisted analysis  •  Responsible & explainable AI  
+- Advanced Analytics & BI • Data storytelling & UX for dashboards  
+- Cloud Data Engineering (AWS) • Orchestration & automation patterns  
+- ML for Business Optimization • Practical NLP & feature engineering  
 
 <h3>💼 Check Out!</h3>
 
@@ -52,10 +51,10 @@ Beyond my professional expertise, I am deeply motivated by continuous learning a
 💬 <b>Handshake Profile:</b> <a href="https://app.joinhandshake.com/profiles/hc75jt">Click Here</a>  
 📧 <b>Email:</b> <a href="mailto:s4sajaljain@gmail.com">s4sajaljain@gmail.com</a>
 
-<h3>🛠️ Languages and Tools</h3>
+<h3>🛠️ Core Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,html,tensorflow,git,aws,powerbi,excel&theme=light" alt="Tools: Python, MySQL, HTML5, TensorFlow, Git, AWS, Power BI, Excel">
+  <img src="https://skillicons.dev/icons?i=aws,python,mysql,powerbi,excel&theme=light" alt="AWS, Python, SQL, Power BI, Excel"/>
 </p>
 
 <p align="center">
