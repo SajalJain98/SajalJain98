@@ -24,11 +24,12 @@
 </p>
 
 <h3>🧠 About Me</h3>
-I am a <b>Business and Data Analytics professional</b> passionate about transforming complex data into meaningful insights that drive decision-making and business growth. My expertise lies in <b>Python, SQL, Power BI, and Machine Learning</b>, which I use to develop data-driven strategies, automate workflows, and create KPI dashboards that provide clear visibility into performance. I thrive at the intersection of business and technology, applying analytical thinking and technical proficiency to solve real-world problems. With a deep curiosity for uncovering trends and optimizing processes, I see data not just as numbers but as a powerful tool for understanding people, predicting outcomes, and creating value.  
 
-I hold a <b>Master’s degree in Business Analytics from Arizona State University’s W. P. Carey School of Business</b>, where I specialized in <b>predictive analytics, data visualization, and business process optimization</b>. My experience spans <b>retail analytics, supply chain optimization, and healthcare operations</b>, where I’ve built data models, designed interactive dashboards, and implemented forecasting tools to streamline operations and enhance decision-making. I’m proficient with <b>Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)</b> for statistical analysis and modeling, <b>SQL</b> for efficient data management, and <b>Power BI</b> for delivering dynamic, business-ready visualizations. I also work with <b>AWS</b> for cloud-based analytics and automation.  
+I am a **Business and Data Analytics professional** passionate about transforming complex data into meaningful insights that drive decision-making and business growth. My expertise lies in **Python, SQL, Power BI, and Machine Learning**, which I use to develop data-driven strategies, automate workflows, and create KPI dashboards that provide clear visibility into business performance. I thrive at the intersection of business and technology, where I can apply analytical thinking and technical proficiency to solve real-world problems. With a deep curiosity for uncovering trends and optimizing processes, I see data not just as numbers but as a powerful tool for understanding people, predicting outcomes, and creating value.  
 
-Beyond my professional expertise, I’m continuously exploring <b>AI-powered analytics, NLP, and cloud data engineering</b> to stay ahead of the evolving data landscape. Outside of work, I enjoy <b>traveling ✈️</b>, <b>experimenting with new technologies 💡</b>, and <b>staying active 🏋️‍♂️</b>. My goal is simple — use data to make smarter decisions, build better systems, and drive meaningful business outcomes.
+I hold a **Master’s degree in Business Analytics from Arizona State University’s W. P. Carey School of Business**, where I specialized in **predictive analytics, data visualization, and business process optimization**. My academic and professional experience spans across **retail analytics, supply chain optimization, and healthcare operations**, where I’ve built data models, designed interactive dashboards, and implemented forecasting tools to streamline operations and enhance decision-making. I am highly proficient in **Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)** for statistical analysis and modeling, **SQL** for efficient data management, and **Power BI** for delivering dynamic, business-ready visualizations. I also have practical experience working with **AWS** for cloud-based data analytics, allowing me to build scalable and efficient reporting pipelines.  
+
+Beyond my professional expertise, I am deeply motivated by continuous learning and innovation. I’m currently expanding my skill set in **AI-powered analytics, Natural Language Processing (NLP), and cloud data engineering** to stay ahead of the evolving data landscape. Outside of work, I’m a travel enthusiast ✈️ who loves exploring new cultures, experimenting with emerging technologies 💡, and staying active through fitness 🏋️‍♂️. My goal is simple — to leverage data and analytics to make smarter decisions, build better systems, and drive meaningful business outcomes.  
 
 <h3>🔍 What I Do</h3>
 
@@ -54,8 +55,15 @@ Beyond my professional expertise, I’m continuously exploring <b>AI-powered ana
 <h3>🛠️ Languages and Tools</h3>
 
 <p align="center">
-  <!-- One single image for all icons: colorful + reliable -->
-  <img src="https://skillicons.dev/icons?i=python,mysql,html,tensorflow,git,aws,powerbi,excel&theme=dark&perline=8" alt="Skills: Python, MySQL, HTML, TensorFlow, Git, AWS, Power BI, Excel" />
+  <!-- Programming & Core Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" alt="MySQL"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" height="60" alt="AWS"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" width="50" height="50" alt="Power BI"/>&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="46" height="46" alt="Excel"/>
 </p>
 
 <p align="center">
