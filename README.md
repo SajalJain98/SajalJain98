@@ -15,7 +15,6 @@
   </a>
 </p>
 
-<!-- Animated Typing Subtitle (after intro) -->
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=1800&pause=800&color=F75C7E&center=true&vCenter=true&width=900&lines=Data+Analyst+%7C+Business+Analyst;Machine+Learning+Enthusiast;Turning+Data+into+Insights;Always+Learning+New+Things+%F0%9F%9A%80"
@@ -23,28 +22,33 @@
   />
 </p>
 
-## 🧠 About Me
-I’m a **Business and Data Analytics professional** who loves turning messy, real-world data into clear stories that leaders can act on. I combine the rigor of **statistics and machine learning** with the practicality of **business intelligence** to improve how teams make decisions every day. My toolkit centers on **Python (Pandas, NumPy, Scikit-learn, Matplotlib/Seaborn)** for analysis and modeling, **SQL** for fast, reliable data work, and **Power BI** for building intuitive, KPI-driven dashboards that bring insights to life. I completed my **M.S. in Business Analytics** at **Arizona State University (W. P. Carey)**, where I deepened my skills in **predictive analytics, business process analytics, and decision modeling**, and learned to approach problems with both a technical lens and a business mindset. In practice, I’ve worked across **retail analytics, supply chain optimization, and healthcare operations**—forecasting demand, automating reporting pipelines, standardizing metrics, and designing self-serve analytics that reduce manual effort and boost accuracy. I care a lot about **quality and reliability** (clean data, versioned logic, clear assumptions), and I’m comfortable partnering with cross-functional stakeholders to translate open-ended questions into analytical roadmaps and measurable outcomes. Lately I’ve been exploring **AI-powered analytics and cloud data patterns on AWS** (for scale and automation), along with practical NLP and feature engineering techniques that make models more robust in production. Outside of work, I’m the person who will happily iterate on a dashboard layout until it “clicks,” then celebrate by **traveling ✈️**, testing a new **data tool 💡**, or hitting the **gym 🏋️‍♂️**. Bottom line: I like building analytics that people actually use—solutions that make work faster, decisions clearer, and results measurable.
+## 🧠 About Me  
 
-## 🔍 What I Do
+I am a **Business and Data Analytics professional** passionate about transforming complex data into meaningful insights that drive decision-making and business growth. My expertise lies in **Python, SQL, Power BI, and Machine Learning**, which I use to develop data-driven strategies, automate workflows, and create KPI dashboards that provide clear visibility into business performance. I thrive at the intersection of business and technology, where I can apply analytical thinking and technical proficiency to solve real-world problems. With a deep curiosity for uncovering trends and optimizing processes, I see data not just as numbers, but as a powerful tool for understanding people, predicting outcomes, and creating value.  
+
+I hold a **Master’s degree in Business Analytics from Arizona State University’s W. P. Carey School of Business**, where I specialized in **predictive analytics, data visualization, and business process optimization**. My academic and professional experience spans across **retail analytics, supply chain optimization, and healthcare operations**, where I’ve built data models, designed interactive dashboards, and implemented forecasting tools to streamline operations and enhance decision-making. I am highly proficient in **Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)** for statistical analysis and modeling, **SQL** for efficient data management, and **Power BI** for delivering dynamic, business-ready visualizations. I also have practical experience working with **AWS** for cloud-based data analytics, allowing me to build scalable and efficient reporting pipelines.  
+
+Beyond my professional expertise, I am deeply motivated by continuous learning and innovation. I’m currently expanding my skill set in **AI-powered analytics, Natural Language Processing (NLP), and cloud data engineering** to stay ahead of the evolving data landscape. Outside of work, I’m a travel enthusiast ✈️ who loves exploring new cultures, experimenting with emerging technologies 💡, and staying active through fitness 🏋️‍♂️. My goal is simple — to leverage data and analytics to make smarter decisions, build better systems, and drive meaningful business outcomes.  
+
+## 🔍 What I Do  
 - 📊 Analyze business & operational data to surface trends and root causes  
 - 📈 Build interactive dashboards & reports with Power BI and SQL  
 - 🔄 Automate data workflows to reduce manual reporting and errors  
-- 🤖 Apply ML & forecasting to real business questions (not just toy datasets)  
-- ☁️ Explore scalable, cost-aware analytics on AWS
+- 🤖 Apply ML & forecasting to real business questions  
+- ☁️ Explore scalable, cost-aware analytics on AWS  
 
-## 🌱 Currently Exploring
+## 🌱 Currently Exploring  
 - Advanced Analytics & BI • Data storytelling & UX for dashboards  
 - Cloud Data Engineering (AWS) • Orchestration & automation patterns  
 - ML for Business Optimization • Practical NLP & feature engineering  
-- AI-assisted analysis • Guardrails & evaluation for analytics apps
+- AI-assisted analysis • Guardrails & evaluation for analytics apps  
 
-## 💼 Check Out!
+## 💼 Check Out!  
 🔗 **LinkedIn:** [Click Here](https://www.linkedin.com/in/sajal-jain-9b24b6278/)  
 💬 **Handshake Profile:** [Click Here](https://app.joinhandshake.com/profiles/hc75jt)  
 📧 **Email:** [s4sajaljain@gmail.com](mailto:s4sajaljain@gmail.com)
 
-## 🛠️ Languages and Tools
+## 🛠️ Languages and Tools  
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="42" height="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="42" height="42"/>
@@ -54,8 +58,8 @@ I’m a **Business and Data Analytics professional** who loves turning messy, re
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="Keras" width="42" height="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="54" height="54"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="42" height="42"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Microsoft_Power_BI_Logo.svg" alt="Power BI" width="46" height="46"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Microsoft_Office_Excel_%282019–present%29.svg" alt="Excel" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" alt="Power BI" width="46" height="46"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Microsoft_Office_Excel_2019-present.svg" alt="Excel" width="45" height="45"/>
 </p>
 
 <p align="center">
